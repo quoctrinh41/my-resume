@@ -18,13 +18,9 @@
 <br>
 
 ## 📌 Working Experience
-
 <br>
-
 ### KMS Technology
-
 <br>
-
 **<ins>Clearwave</ins>** - Senior Software Engineer - FullStack <br>
 _(January 2021  - Present)_ <br>
 Clearwave - Patient Access System
